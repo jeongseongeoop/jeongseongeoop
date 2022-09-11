@@ -4,15 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-  
-- 🔭 I’m currently working on everyday
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on 1
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...something 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=seongeop%20edit&fontSize=90)

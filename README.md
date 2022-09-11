@@ -8,3 +8,4 @@ Here are some ideas to get you started:
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=seongeop%20edit&fontSize=40)
+<img src="https://img.shields.io/badge/000000?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 

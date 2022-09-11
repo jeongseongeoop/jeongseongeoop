@@ -8,3 +8,4 @@ Here are some ideas to get you started:
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=seongeop%20edit&fontSize=40)
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>

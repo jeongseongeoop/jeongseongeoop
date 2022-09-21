@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=seongeop%20edit&fontSize=40)
 <br>
-<img src="https://img.shields.io/badge/java-FFCA28?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-FFCA28?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-FFCA28?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/>
+<img src="https://img.shields.io/badge/python-FFCA28?style=flat-square&logo=Python&logoColor=#3776AB"/>
+<img src="https://img.shields.io/badge/python-FFCA28?style=flat-square&logo=Django&logoColor=#092E20"/>
 <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> --

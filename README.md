@@ -2,17 +2,17 @@
 
 <br/>
 
-<p align="center"> I Want Web Front Developer  </p>
+<p align="center"> I Want Web Front Developer  :atom: </p>
 
 
 <br/>
 
-
-## <p align="left">🤪 Main SKILLS </p>
+▶️
+## <p align="left">▶️  Main SKILLS </p>
    <img src="https://img.shields.io/badge/python-ffffff?style=flat-square&logo=python&logoColor=black"/>   <img src="https://img.shields.io/badge/django-ffffff?style=flat-square&logo=django&logoColor=black"/>   <img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=black"/>
 
   
-## 🤪Sub SKILLS 
+## 🤪 Sub SKILLS 
   
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/>

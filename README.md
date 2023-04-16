@@ -1,8 +1,8 @@
 <h1 align="center"> Jeung seong eop 🤪 </h1>
-
+<p align="center"> Web Front Developer  :atom: </p>
 <br/>
 
-<p align="center"> I Want Web Front Developer  :atom: </p>
+
 
 
 <br/>

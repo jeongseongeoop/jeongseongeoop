@@ -1,4 +1,4 @@
- <h1 align="left"> Hi i'm seongeop </h1><h6 align="left" > Web Front Developer</h6>
+Hi i'm seongeop<h6 align="left" > Web Front Developer</h6>
 
 
 

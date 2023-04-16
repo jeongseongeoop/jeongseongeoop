@@ -8,17 +8,17 @@
 <br/>
 
 
-## ▶️  Main SKILLS
+##   <p color="white"> ▶️ Main SKILLS </p>
    <img src="https://img.shields.io/badge/python-ffffff?style=flat-square&logo=python&logoColor=black"/>   <img src="https://img.shields.io/badge/django-ffffff?style=flat-square&logo=django&logoColor=black"/>   <img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=black"/>
    <img src="https://img.shields.io/badge/java-ffffff?style=flat-square&logo=java&logoColor=black"/>
 
   
-## ▶️ Sub SKILLS 
+## <p color="white"> ▶️ Sub SKILLS </p>
   
 <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/>
-<img src="https://img.shields.io/badge/javascript-092E20?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-4479A1?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=Git&logoColor=black"/>
+<img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=black"/>
 </p>
 <br/>
 

@@ -1,7 +1,7 @@
 <div>
  <h1> Hi i'm seongeop </h1>  <h6 align="left" > Web Front Developer</h6>
 </div>
-<br/>
+
 
 
 
@@ -16,18 +16,14 @@
 
 </div>
   
-  <br/>
-<br/>
-<br/>
-<br/>
+<br/><br/><br/><br/>
 
  ##<p color="white">  Langauge </p>
  <div>
 
 <img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=Git&logoColor=black"/> <img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=black"/>
-<br/>
 </div>
-
+<br/><br/><br/>
 ## STACK 
 <br/>
 [dark]: https://github-readme-stats.vercel.app/api?username=jeongseongeoop&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark

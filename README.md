@@ -1,4 +1,4 @@
-<h1 align="center"> Jeung seong eop 🤪 </h1>
+<h1 align="center"> Hi i'm seongeop </h1>
 <p align="center"> Web Front Developer  :atom: </p>
 <br/>
 

@@ -8,7 +8,7 @@
 <br/>
 
 
-## 🤪 Main SKILLS 
+## <h1 align="light">🤪 Main SKILLS </h1>
 
 <p>
   <img src="https://img.shields.io/badge/Python-F05032?style=flat-square&logo=Pyhton&logoColor=black"/>

@@ -18,7 +18,7 @@
   
 <br/><br/><br/><br/>
 
-##<p color="white">  Langauge </p>
+##  <p color="white">  Langauge </p>
  <div>
 
 <img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=Git&logoColor=black"/> <img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=black"/>

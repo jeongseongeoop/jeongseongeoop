@@ -1,10 +1,8 @@
 <h1>Hi i'm seongeop</h1><h6 align="left" > Web Front Developer</h6>
 
-
-
-
-
-
+</br>
+</br>
+</br>
 
 ##  <p color="white">  SKILLS </p>
 <div>
@@ -13,12 +11,9 @@
    <img src="https://img.shields.io/badge/java-ffffff?style=flat-square&logo=java&logoColor=black"/>
 
 </div>
-  
-  
-  
-  
-  
-
+</br>
+</br>
+</br>
 ##  <p color="white">  Langauge </p>
  <div>
 

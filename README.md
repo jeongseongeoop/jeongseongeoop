@@ -11,8 +11,7 @@
 ## 🤪 SKILLS 
 
 <p>
-<img src="https://img.shields.io/badge/react-stack-green"/>    
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-4479A1?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=black"/>
   
 <br>

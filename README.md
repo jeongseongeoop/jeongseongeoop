@@ -22,7 +22,8 @@
 <img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=Git&logoColor=black"/> <img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=black"/>
 </div>
 <br/><br/><br/>
+
+
 ## STACK 
-<br/>
 [dark]: https://github-readme-stats.vercel.app/api?username=jeongseongeoop&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
 Loading...

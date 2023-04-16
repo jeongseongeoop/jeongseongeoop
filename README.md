@@ -25,5 +25,6 @@
 <br/>
 </div>
 
-## 💻 Language 
+## 💻 STACK 
 <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jeongseongeoop=anuraghazra&theme=dark&show_icons=true)

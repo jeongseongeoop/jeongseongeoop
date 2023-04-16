@@ -1,5 +1,5 @@
 <div>
- <h1> Hi i'm seongeop </h1>  <h6 align="left" > Web Front Developer</h6>
+ <h1 align="left"> Hi i'm seongeop </h1><h6 align="left" > Web Front Developer</h6>
 </div>
 
 

@@ -2,7 +2,7 @@
 
 <br/>
 
-<p align="senter"> I Want Web Front Developer  </p>
+<p align="center"> I Want Web Front Developer  </p>
 
 
 <br/>

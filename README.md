@@ -25,5 +25,5 @@
 <br/>
 </div>
 
-## 💻 STACK 
+## STACK 
 <br/>

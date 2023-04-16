@@ -8,7 +8,7 @@
 <br/>
 
 
-## <p align="right">🤪 Main SKILLS </p>
+## <p align="left">🤪 Main SKILLS </p>
    <img src="https://img.shields.io/badge/python-ffffff?style=flat-square&logo=python&logoColor=black"/>   <img src="https://img.shields.io/badge/django-ffffff?style=flat-square&logo=django&logoColor=black"/>   <img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=black"/>
 
   

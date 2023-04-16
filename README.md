@@ -1,15 +1,32 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongseongeoop&count_bg=%231FAA55&title_bg=%2355D162&icon=tumblr.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!--
-**jeongseongeoop/jeongseongeoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">I'm GyeongMin 😃 </h1>
 
-Here are some ideas to get you started:
--->
+<br/>
+
+- I'm interested in Cloud Infra Engineer         
+- How to reach me: 📫 gymin97@gmail.com ✏[Tistory](https://gammistory.tistory.com/)
+
+<br/>
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=seongeop%20edit&fontSize=40)
+## :zap: SKILLS 
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black"/>    
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=black"/>
+  
 <br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=black"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=black"/>
 
-<h5> My Stack </h5>
-<img src="https://img.shields.io/badge/javaScript-navy?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/><img src="https://img.shields.io/badge/python-navy?style=flat-square&logo=Python&logoColor=#3776AB"/><img src="https://img.shields.io/badge/Django-navy?style=flat-square&logo=Django&logoColor=#092E20"/>
-<!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> --
- 
+</p>
+<br/>
+
+## 💻 Language 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gymin97&layout=compact)](https://github.com/gymin97)
+![github stats](https://github-readme-stats.vercel.app/api?username=gymin97&show_icons=true)
+
+<br/>

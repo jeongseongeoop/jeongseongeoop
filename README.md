@@ -9,10 +9,7 @@
 
 
 ## <h1 align="right">🤪 Main SKILLS </h1>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-F05032?style=flat-square&logo=Pyhton&logoColor=black"/>
-</p>
+   <img src="https://img.shields.io/badge/python-F05032?style=flat-square&logo=python&logoColor=black"/>
 
   
 ## 🤪Sub SKILLS 

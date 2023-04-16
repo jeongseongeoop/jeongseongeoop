@@ -27,4 +27,4 @@
 
 ## 💻 STACK 
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jeongseongeoop=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jeongseongeoop=anuraghazra&theme_jeongseongeoop=dark&show_icons=true)

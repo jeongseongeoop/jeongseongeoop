@@ -7,13 +7,13 @@
 
 <br/>
 
-▶️
-## <p align="left">▶️  Main SKILLS </p>
+
+## ▶️  Main SKILLS
    <img src="https://img.shields.io/badge/python-ffffff?style=flat-square&logo=python&logoColor=black"/>   <img src="https://img.shields.io/badge/django-ffffff?style=flat-square&logo=django&logoColor=black"/>   <img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=black"/>
    <img src="https://img.shields.io/badge/java-ffffff?style=flat-square&logo=java&logoColor=black"/>
 
   
-## 🤪 Sub SKILLS 
+## ▶️ Sub SKILLS 
   
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/>

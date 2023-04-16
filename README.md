@@ -1,4 +1,4 @@
-<h1 align="center">I'm GyeongMin 😃 </h1>
+<h1 align="center"> Seongeop 😁 </h1>
 
 <br/>
 
@@ -8,7 +8,7 @@
 <br/>
 
 
-## :zap: SKILLS 
+## 🤪 SKILLS 
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black"/>    

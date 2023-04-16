@@ -27,4 +27,4 @@
 
 ## 💻 STACK 
 <br/>
-[default]: (https://github-readme-stats.vercel.app/api?username=jeongseongeoop&show_icons=true&theme=default)
+![default](https://github-readme-stats.vercel.app/api?username=jeongseongeoop&show_icons=true&theme=default)

@@ -1,6 +1,6 @@
 <div>
- <p align="center"  style="color:Blue" > Hi i'm seongeop </p> 
- <p align="center" font-size="7"> Web Front Developer</p>
+ <h1 align="center" > Hi i'm seongeop </h1> 
+ <h6 align="center" > Web Front Developer</h6>
 </div>
 <br/>
 

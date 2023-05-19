@@ -17,12 +17,3 @@
  <img src="https://img.shields.io/badge/django-ffffff?style=flat-square&logo=django&logoColor=black"/>
  <img src="https://img.shields.io/badge/sqlite-ffffff?style=flat-square&logo=sqlite&logoColor=black"/>   
 </h1>
-
-
-
-
-
-
-## STACK 
-[dark]: https://github-readme-stats.vercel.app/api?username=jeongseongeoop&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
-Loading...

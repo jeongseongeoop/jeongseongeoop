@@ -1,8 +1,4 @@
-<div align="center"> 
- <h1 align="center"> Hi i'm seongeop</h1>
-</div>
 
-</br>
 <h1 color="white">  My SKILLS 
  <img src="https://img.shields.io/badge/python-ffffff?style=flat-square&logo=python&logoColor=black"/>   
  <img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=black"/>

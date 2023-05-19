@@ -4,12 +4,12 @@
 </br>
 </br>
 
-<h1 color="white">  SKILLS </h1><div align="center">
+<h1 color="white">  SKILLS </h1>
 
  <img src="https://img.shields.io/badge/python-ffffff?style=flat-square&logo=python&logoColor=black"/>   
  <img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=black"/>
  <img src="https://img.shields.io/badge/java-ffffff?style=flat-square&logo=java&logoColor=black"/>
-
+<div align="center">
 </div>
 </br></br></br>
 

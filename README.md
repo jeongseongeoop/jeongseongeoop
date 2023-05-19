@@ -30,6 +30,7 @@
  <img src="https://img.shields.io/badge/jquery-ffffff?style=flat-square&logo=jquery&logoColor=black" alihg"left"/>  
  <img src="https://img.shields.io/badge/raspberrypi-ffffff?style=flat-square&logo=raspberrypi&logoColor=black" alihg"left"/>  
  <img src="https://img.shields.io/badge/arduino-ffffff?style=flat-square&logo=arduino&logoColor=black" alihg"left"/>  
+ <img src="https://img.shields.io/badge/slack-ffffff?style=flat-square&logo=slack&logoColor=black" alihg"left"/>  
    
   
  </div>

@@ -7,6 +7,8 @@
  <img src="https://img.shields.io/badge/python-ffffff?style=flat-square&logo=python&logoColor=black" >   
  <img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/java-ffffff?style=flat-square&logo=java&logoColor=black" />
+ <img src="https://img.shields.io/badge/c-ffffff?style=flat-square&logo=c&logoColor=black" />
+ <img src="https://img.shields.io/badge/cplusplus-ffffff?style=flat-square&logo=cplusplus&logoColor=black" />
  </div>
 </h1>
 
@@ -25,6 +27,10 @@
  <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat-square&logo=HTML5&logoColor=black" alihg"left"/>   
  <img src="https://img.shields.io/badge/css3-ffffff?style=flat-square&logo=css3&logoColor=black" alihg"left"/>   
  <img src="https://img.shields.io/badge/bootstrap-ffffff?style=flat-square&logo=bootstrap&logoColor=black" alihg"left"/>
- <img src="https://img.shields.io/badge/jquery-ffffff?style=flat-square&logo=jquery&logoColor=black" alihg"left"/>   
+ <img src="https://img.shields.io/badge/jquery-ffffff?style=flat-square&logo=jquery&logoColor=black" alihg"left"/>  
+ <img src="https://img.shields.io/badge/raspberrypi-ffffff?style=flat-square&logo=raspberrypi&logoColor=black" alihg"left"/>  
+ <img src="https://img.shields.io/badge/arduino-ffffff?style=flat-square&logo=arduino&logoColor=black" alihg"left"/>  
+   
+  
  </div>
 </h1>

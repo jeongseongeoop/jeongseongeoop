@@ -1,4 +1,7 @@
-<h1 align="center">Hi i'm seongeop</h1><h6 align="center" > Web Front Developer</h6>
+<div> 
+ <h1 align="center">Hi i'm seongeop</h1>
+ <h6 align="center" > Web Front Developer</h6> 
+</div>
 
 </br>
 <h1 color="white">  SKILLS 
@@ -7,24 +10,22 @@
  <img src="https://img.shields.io/badge/java-ffffff?style=flat-square&logo=java&logoColor=black"/>
 </h1>
 
-<div align="center">
-</div>
-</br></br></br>
 
 
 
 
-##  <p color="white">  Langauge </p>
- <div align="center">
 
-
+<h1 color="white">  Langauge 
 <img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=Git&logoColor=black"/> 
  <img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=black"/> 
  <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=black"/>  
  <img src="https://img.shields.io/badge/django-ffffff?style=flat-square&logo=django&logoColor=black"/>
  <img src="https://img.shields.io/badge/sqlite-ffffff?style=flat-square&logo=sqlite&logoColor=black"/>   
-</div>
-<br/><br/><br/>
+</h1>
+
+
+
+
 
 
 ## STACK 

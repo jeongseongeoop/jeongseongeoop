@@ -1,14 +1,12 @@
 <h1 align="center">Hi i'm seongeop</h1><h6 align="center" > Web Front Developer</h6>
 
 </br>
-</br>
-</br>
-
-<h1 color="white">  SKILLS </h1>
-
+<h1 color="white">  SKILLS 
  <img src="https://img.shields.io/badge/python-ffffff?style=flat-square&logo=python&logoColor=black"/>   
  <img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=black"/>
  <img src="https://img.shields.io/badge/java-ffffff?style=flat-square&logo=java&logoColor=black"/>
+</h1>
+
 <div align="center">
 </div>
 </br></br></br>

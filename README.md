@@ -1,3 +1,6 @@
+<h1>HI I'm SeongEop</h1>
+
+
 
 <h1 color="white">  My SKILLS 
  <img src="https://img.shields.io/badge/python-ffffff?style=flat-square&logo=python&logoColor=black"/>   

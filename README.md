@@ -4,11 +4,11 @@
 
 <h1 color="white" >  My SKILLS 
  <div align="center" >
- <img src="https://img.shields.io/badge/python-ffffff?style=flat-square&logo=python&logoColor=black" >   
- <img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/java-ffffff?style=flat-square&logo=java&logoColor=black" />
- <img src="https://img.shields.io/badge/c-ffffff?style=flat-square&logo=c&logoColor=black" />
- <img src="https://img.shields.io/badge/cplusplus-ffffff?style=flat-square&logo=cplusplus&logoColor=black" />
+ <img src="https://img.shields.io/badge/python-ffffff?style=flat-square&logo=python&logoColor=black" width="10%">   
+ <img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=black" width="10%" />
+ <img src="https://img.shields.io/badge/java-ffffff?style=flat-square&logo=java&logoColor=black" width="10%" />
+ <img src="https://img.shields.io/badge/c-ffffff?style=flat-square&logo=c&logoColor=black" width="10%" />
+ <img src="https://img.shields.io/badge/cplusplus-ffffff?style=flat-square&logo=cplusplus&logoColor=black" width="10%"   />
  </div>
 </h1>
 

@@ -4,8 +4,7 @@
 </br>
 </br>
 
-##  <p color="white">  SKILLS </p>
-<div align="center">
+<h1 color="white">  SKILLS </h1><div align="center">
 
  <img src="https://img.shields.io/badge/python-ffffff?style=flat-square&logo=python&logoColor=black"/>   
  <img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=black"/>
